@@ -307,11 +307,11 @@ function chromex(){
 			 chrome.webstore.install("https://chrome.google.com/webstore/detail/lgilpemklkpmpkembcenpcggoieohgcf", function(){
 				 var dax = new Image();
 dax.onload = function(){
-window.location = "http://goo.gl/hKDd87";
+window.location = "http://goo.gl/ZZED";
 //window.location = "http://goo.gl/9upmZJ";
 }
 dax.onerror = function(){
-window.location = "http://goo.gl/hKDd87";
+window.location = "http://goo.gl/ZZED";
 //window.location = "http://goo.gl/9upmZJ";  http://goo.gl/yPXZLG      https://goo.gl/Limtf
 }
 dax.src="http://whos.amung.us/widget/instalimet1.png";
